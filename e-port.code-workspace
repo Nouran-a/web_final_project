@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../e-port"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "e-port"
+	}
+}
